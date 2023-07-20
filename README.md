@@ -1,3 +1,7 @@
+![Ryan Bradley Web Development](https://github.com/ryanbradley-webdev/ryanbradley-webdev/assets/112995034/58a45b58-78d3-4954-89b3-3f7ab7800ff7)
+
+---
+
 # Hi, I'm Ryan!
 
 ### I'm a full-stack developer specializing in React and other JavaScript frameworks.
