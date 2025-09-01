@@ -14,10 +14,10 @@ My focus: building **scalable, maintainable applications** while improving team 
 ---
 
 ## Featured Projects
-- **[Multi-Creator Blog Platform](#)** – React + Node.js + MongoDB  
+- **[Multi-Creator Blog Platform](https://github.com/ryanbradley-webdev/makeup-yer-mind-official)** – React + Node.js + MongoDB  
   Custom content types, affiliate integrations, and a creator dashboard.  
 
-- **[Audio Engineer Portfolio](#)** – JavaScript + CSS  
+- **[Audio Engineer Portfolio](https://github.com/ryanbradley-webdev/kenmixesmusic)** – JavaScript + CSS  
   Responsive portfolio with an interactive carousel for album artwork.
 
 ---
