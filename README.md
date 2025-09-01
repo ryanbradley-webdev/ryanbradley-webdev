@@ -1,17 +1,45 @@
-![Ryan Bradley Web Development](https://github.com/ryanbradley-webdev/ryanbradley-webdev/assets/112995034/58a45b58-78d3-4954-89b3-3f7ab7800ff7)
+# Hi, I’m Ryan
+
+I’m a self-taught **Full Stack Developer** specializing in **React, Vue, TypeScript, and C#**.  
+My focus: building **scalable, maintainable applications** while improving team processes through documentation, mentorship, and modern development practices.
 
 ---
 
-# Hi, I'm Ryan!
+## What I Work On
+- Migrating and modernizing enterprise web applications (framework upgrades, TypeScript adoption)
+- Building reusable component libraries with tests and documentation
+- Designing and delivering full stack features (frontend + APIs + databases)
+- Streamlining workflows to help teams deliver faster and more reliably
 
-### I'm a full-stack developer specializing in React and other JavaScript frameworks.
+---
 
-I build websites from the ground up including front-end design, back-end architecture, and databasing. I'm proficient in HTML, CSS, and JavaScript, and I build most applications using React. I also utilize Next.js for larger applications. I'm constantly expanding my understanding of web technologies and looking for new opportunites to learn.
+## Featured Projects
+- **[Multi-Creator Blog Platform](#)** – React + Node.js + MongoDB  
+  Custom content types, affiliate integrations, and a creator dashboard.  
 
-- Get started with a new website [here!](https://ryanbradleywebdev.com)
-- Contact me at ryan@ryanbradleywebdev.com
-- View my portfolio at [ryanbradleyportfolio.com](https://ryanbradleyportfolio.com)
-- Follw my Instagram at [@ryanbradley_web_dev](https://www.instagram.com/ryanbradley_web_dev/)
+- **[Audio Engineer Portfolio](#)** – JavaScript + CSS  
+  Responsive portfolio with an interactive carousel for album artwork.
+
+---
+
+## Proof of Skills
+Most of my recent enterprise work is proprietary.  
+To stay transparent, I maintain selected public repos (above) and am always open to **live coding sessions** to demonstrate how I solve problems in real time.
+
+---
+
+## Certifications
+- AWS Cloud Practitioner  
+- Oracle Java Programmer (Associate)  
+- PMI Project Management Professional (PMP)  
+- Google UX Design Certificate  
+
+---
+
+## Fun Fact
+Before becoming a developer, I spent 10 years in the U.S. Navy, where I led technical teams, optimized complex processes, and delivered results under pressure — skills I bring directly into my software engineering work.
+
+---
 
 ### Skills:
 
